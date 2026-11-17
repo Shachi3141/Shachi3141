@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shachi3141
 - 👀 I’m interested in Theoritical and Computational Physics.
-- 🌱 I’m currently learning Molicular Dynamics simulation, Lattice Model.
-
+- 🌱 I’m currently learning Molecular Dynamics simulation, Lattice Model.
+- Exploring AI - Haha haha!
 
 
 
